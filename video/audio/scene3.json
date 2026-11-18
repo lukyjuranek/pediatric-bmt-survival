@@ -1,0 +1,15 @@
+{
+  "duration": 34.544,
+  "starts": [
+    0.066,
+    11.74,
+    18.204,
+    27.167
+  ],
+  "cues": [
+    "Many columns look informative and are banned. Relapse, acute and chronic graft-versus-host disease, and the times A N C recovery, P L T recovery, and time to acute G v H D are observed only after transplant. Putting them in the model would leak the future into the predictors.",
+    "Those three time columns also store the sentinel value one million when the time was not seen: five rows, seventeen rows, and one hundred forty-five rows.",
+    "Load A R F F reads the file as latin one, because the header is broken, and turns question marks into missing values. Clean casts the codes to numbers and adds log C D thirty-four and log C D three.",
+    "Forty-five rows have some missing field. Twenty-three are missing a true baseline field. The sentinel values stay out of every model matrix, because those columns are post-transplant."
+  ]
+}

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bmt-survival"
+version = "1.0.0"
+description = "Lab II survival analysis of pediatric bone-marrow transplants"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+where = ["src"]

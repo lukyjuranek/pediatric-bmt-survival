@@ -1,0 +1,15 @@
+.venv/
+.ipython/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+video/media/
+video/frames/
+video/build/
+report/report.aux
+report/report.log
+report/report.out
+report/report.fls
+report/report.fdb_latexmk
+report/report.synctex.gz

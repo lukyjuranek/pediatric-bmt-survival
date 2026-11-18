@@ -1,0 +1,15 @@
+{
+  "duration": 36.984,
+  "starts": [
+    0.09,
+    4.367,
+    23.433,
+    32.823
+  ],
+  "cues": [
+    "From the cleaned table the pipeline builds two matrices, and both use only pre-transplant columns.",
+    "Clustering starts from thirteen inputs: recipient and donor age, the two log cell doses, six binary codes, two ordinal codes, and Disease. Disease is one-hot encoded into five levels: A L L, A M L, chronic, lymphoma, and nonmalignant. Median imputation for the continuous columns, most-frequent imputation for the codes, then a standard scaler. The matrix that reaches P C A is one hundred eighty-seven by seventeen.",
+    "Cox model A is thinner on purpose. Build cox frame keeps eight covariates, about ten deaths per variable: recipient age per five years, donor age per ten years, log C D thirty-four dose, and five yes-or-no codes.",
+    "The largest variance inflation factor is two point one three, so those eight are not copies of one another."
+  ]
+}

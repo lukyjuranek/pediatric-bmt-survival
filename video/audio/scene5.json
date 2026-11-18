@@ -1,0 +1,17 @@
+{
+  "duration": 50.250667,
+  "starts": [
+    0.066,
+    8.489,
+    16.864,
+    26.23,
+    40.873
+  ],
+  "cues": [
+    "Clustering is principal components, then K-means. Fit P C A keeps components until eighty-five percent of the variance is kept. That takes eleven components, and they actually hold eighty-nine percent.",
+    "K-means then tries every K from two to eight, with fifty random starts and seed forty-two. Select K wants the highest silhouette, and it also demands that every cluster have at least fifteen patients.",
+    "K equals six, seven, and eight score higher, silhouettes around zero point two two, but their smallest group has only nine patients, so they are thrown out. K equals five wins, with silhouette zero point one eight four.",
+    "The five groups, named from the data, are: A L L and low risk, forty-six patients; chronic disease with a poorer H L A match, thirty-six; mostly marrow and a lower C D thirty-four dose, thirty-eight; A M L and often a second transplant, thirty-six; and nonmalignant disease in younger children, thirty-one.",
+    "A D B scan check on the same space, epsilon about five point six and twenty-two minimum samples, finds one blob and zero noise. It does not recover the five groups. Adjusted Rand index versus K-means is zero."
+  ]
+}
