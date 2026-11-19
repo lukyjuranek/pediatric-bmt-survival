@@ -1,8 +1,0 @@
-model_a,model_c,sign_a,sign_c_aligned,agree
-Recipientage_per5,Recipientage,1.0,1.0,True
-Donorage_per10,Donorage,1.0,1.0,True
-log_CD34,log_CD34,-1.0,-1.0,True
-Riskgroup,Riskgroup,1.0,1.0,True
-Txpostrelapse,Txpostrelapse,1.0,1.0,True
-Stemcellsource,Stemcellsource,-1.0,-1.0,True
-Diseasegroup,Disease_nonmalignant,-1.0,-1.0,True
